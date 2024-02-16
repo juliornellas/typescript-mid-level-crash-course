@@ -17,3 +17,5 @@ npm install typescript --save-dev
 </code>
 
 In the end, your project still runs JS!
+
+In other words, Typescript is a tool that helps you to write a better javascript code.
