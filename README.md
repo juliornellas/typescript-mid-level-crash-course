@@ -1,5 +1,7 @@
 # Typescript
 
+> This is a mid-level typescript crash course
+
 Typescript it's not a language or stand alone language. And why not? Because it's too dependent of javascript.
 
 In short Typescript is all about, **TYPE SAFETY**. More precisely and accurate way to code.
